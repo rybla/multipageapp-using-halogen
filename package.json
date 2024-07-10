@@ -1,11 +1,6 @@
 {
   "name": "multipageapp-using-halogen",
-  "version": "1.0.0",
-  "description": "",
   "type": "module",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "esbuild": "^0.23.0",
     "express": "^4.19.2",
