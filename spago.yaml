@@ -1,0 +1,21 @@
+package:
+  name: multipageapp-using-halogen
+  dependencies:
+    - arrays
+    - console
+    - effect
+    - halogen
+    - lists
+    - maybe
+    - node-fs
+    - node-process
+    - prelude
+    - profunctor-lenses
+    - strings
+  test:
+    main: Test.Main
+    dependencies: []
+workspace:
+  packageSet:
+    registry: 53.0.0
+  extraPackages: {}
